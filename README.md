@@ -1,2 +1,2 @@
 # people_matching
-people re-id
+people re-id project
